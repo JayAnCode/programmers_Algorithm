@@ -9,6 +9,7 @@ class Solution {
 		int n = sc.nextInt();
 		System.out.println(solution(n));
 	}
+
 	public static String solution(int n) {
 
 		StringBuilder sb = new StringBuilder();
