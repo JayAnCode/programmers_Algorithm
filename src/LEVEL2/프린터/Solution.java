@@ -2,6 +2,7 @@ package LEVEL2.프린터;
 
 import java.util.*;
 
+
 class Solution {
 	public static void main(String args[]) {
 

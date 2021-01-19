@@ -1,5 +1,6 @@
 package LEVEL2.일이사나라의숫자;
 
+
 import java.util.Scanner;
 
 class Solution {
