@@ -24,7 +24,6 @@ public class Main {
 			while(next<len && name.charAt(next) == 'A') next += 1;
 
 			lrMove = Math.min(lrMove, i+(len-next+i));
-
 		}
 		answer += lrMove;
 
